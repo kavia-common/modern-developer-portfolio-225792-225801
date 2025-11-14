@@ -51,12 +51,7 @@ Success Metrics:
 - Basic analytics hook placeholder (respecting privacy and opt-in).
 - Unit tests for key components and integration tests for navigation and section visibility.
 
-### Out-of-Scope
-- Backend/API development (form handling will be stubbed or use external service via environment-configured endpoint).
-- CMS integration.
-- Authentication or protected content.
-- Internationalization (i18n).
-- Advanced animations beyond subtle transitions and smooth scroll.
+
 
 ## Personas and Key User Journeys
 Personas:
