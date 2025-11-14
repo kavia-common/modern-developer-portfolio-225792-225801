@@ -1,4 +1,4 @@
-# Modern Developer Portfolio Website — Project Plan
+# Project plan
 
 ## Table of Contents
 1. Executive Summary
