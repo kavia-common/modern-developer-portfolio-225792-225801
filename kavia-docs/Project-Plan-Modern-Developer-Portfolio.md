@@ -1,26 +1,11 @@
-# Project plan
+# Portfolio project plan
 
 ## Table of Contents
 1. Executive Summary
 2. Goals, Objectives, and Success Metrics
 3. Scope
-   3.1 In-Scope
-   3.2 Out-of-Scope
 4. Personas and Key User Journeys
 5. Information Architecture and Site Map
-6. UI/UX Design Approach (Ocean Professional Theme)
-7. Technical Architecture (React Frontend)
-8. Component Breakdown and Responsibilities
-9. Routing and Sections
-10. State Management and Data Strategy
-11. Environment and Configuration
-12. Accessibility and Performance Targets
-13. Security Practices (Frontend)
-14. Backlog and Milestones (Weeks 1–4)
-15. Testing Strategy (High-Level)
-16. Risks, Assumptions, and Mitigations
-17. Acceptance Criteria and Definition of Done
-18. Implementation Roadmap and Next Steps
 
 ## Executive Summary
 This project will deliver a modern, responsive, and visually appealing developer portfolio website to showcase projects, skills, and contact information. The solution will use a React-based frontend (Create React App baseline) with a one-page layout and smooth-scrolling sticky navigation. The Ocean Professional theme will guide visual language, emphasizing clarity, legibility, and subtle gradients. We will prioritize accessibility (WCAG 2.1 AA), Core Web Vitals performance, and secure frontend practices. The plan outlines scope, architecture, milestones, risks, and an implementation roadmap to achieve a production-ready site in four weeks.
